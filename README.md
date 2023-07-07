@@ -2,4 +2,4 @@
 
 Learning directx and vulkan.
 
-Ongoing development
+On pause
